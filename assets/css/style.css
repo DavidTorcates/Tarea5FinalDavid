@@ -55,7 +55,7 @@ button{
     display: none;
     content: url(/assets/image/nysl_logo.png);
     float: left;
-    width: 10%;
+    width: 30%;
     margin:30px 50px 0px 10px;
     padding-bottom: 100%;
 }

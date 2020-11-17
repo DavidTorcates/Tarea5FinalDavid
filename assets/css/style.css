@@ -40,7 +40,7 @@ button{
 }
 #subtitulo{
     text-align: center;
-    border: solid;
+    border: solid red;
 }
 #logo{
     content: url(/assets/image/nysl_logo.png);
